@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg",TVB
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1  tvg-logo="http://img.tvb.com/corporate/_fck_/image/J2_logo_L(2)",J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1  tvg-logo="http://img.tvb.com/corporate/_fck_/image/NEWS2017_logo_L.jpg",無綫新聞台
+http://61.238.6.49:8001/bysid/83
+#EXTINF:-1  tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg",無綫財經資訊台
+http://61.238.6.49:8001/bysid/85
+#EXTINF:-1 ,Now 直播
+http://hls.globaliptv.ml/now331.php
+#EXTINF:-1 ,Now 新聞台
+http://hls.globaliptv.ml/now332.php
+#EXTINF:-1 ,ViuTV 96
+http://hls.globaliptv.ml/viu96.php
+#EXTINF:-1 ,ViuTV 99
+http://hls.globaliptv.ml/viu99.php
+#EXTINF:-1 ,TVB
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,ATV
+https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo_3.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",港台電視31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
